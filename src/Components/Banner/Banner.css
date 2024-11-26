@@ -1,0 +1,4 @@
+.b h1{
+
+    @apply text-[30px] bg-orange-100 font-semibold font-Poppins px-56 py-56 text-center
+}

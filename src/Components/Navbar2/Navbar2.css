@@ -1,0 +1,24 @@
+.nav{
+
+    @apply bg-black 
+}
+
+.row{
+
+    @apply flex justify-between items-center  py-3 
+}
+
+.l{
+
+    @apply text-[30px] text-yellow-400 font-Rubik font-semibold
+}
+
+.row ul{
+
+    @apply flex items-center gap-10
+}
+
+ .row ul li a{
+
+    @apply text-[21px] text-white font-Rubik font-semibold
+}

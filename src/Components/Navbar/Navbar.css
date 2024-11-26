@@ -1,0 +1,25 @@
+
+.navbar{
+
+    @apply bg-orange-300
+}
+
+.main_row{
+
+    @apply flex justify-between items-center  py-3
+}
+
+.logo{
+
+    @apply text-[30px] text-green-600 font-Rubik font-semibold
+}
+
+ul{
+
+    @apply flex items-center gap-10
+}
+
+ul li a{
+
+    @apply text-[19px] text-black font-Poppins font-semibold
+}
